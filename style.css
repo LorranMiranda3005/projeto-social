@@ -14,7 +14,6 @@ html , body {
 
 main {
     position: relative;
-    margin: auto;
     background-color: green;
     height: 100vh;
 }
@@ -26,5 +25,5 @@ main {
 
     height: 627px;
     width: 311px;
-    background: url("imagens/frame-iphone.png");
+    background: url();
 }
