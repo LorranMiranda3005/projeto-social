@@ -28,3 +28,16 @@ width: 225px;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#tela {
+    position: relative;
+    top: 58px;
+    left: 16px;
+    height: 341px;
+    width: 193px;
+   
+    
+    
+    
+
+}
